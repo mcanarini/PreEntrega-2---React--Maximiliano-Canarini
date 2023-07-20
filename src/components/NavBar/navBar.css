@@ -1,0 +1,32 @@
+.navBar{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 0;  
+    height: 130px;
+    background-color: black;
+    top: 0;
+    margin-bottom: 45px;
+  }
+  
+  .Categories{
+    text-decoration: none;
+    font-weight:400;
+    font-size: 1.15em;
+    color: #e89a25;
+  }
+  
+  .Categories:hover{
+    font-weight: 600;
+    color:#f8bf68;
+  }
+
+  .Logo{
+    width: 280px;
+    height: 130px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
